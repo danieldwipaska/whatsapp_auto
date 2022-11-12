@@ -1,0 +1,4 @@
+_IGNORE_COVID_HELPER
+node_modules
+COVID_HELPER.data.json
+.env
