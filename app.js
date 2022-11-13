@@ -245,6 +245,7 @@ function start(client) {
     }
   });
 }
+//edit
 
 // if (message.from === process.env.ADMIN_NUMBER) {
 //     if (message.hasMedia) {
